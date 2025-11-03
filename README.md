@@ -1,1 +1,2 @@
 # Alps-Hotel
+A sophisticated, sophisticated, responsive website responsive website for a luxury Swiss hotel built with pure HTML, CSS, and JavaScript for a luxury Swiss hotel built with pure HTML, CSS, and JavaScript.. This project showcases elegant Alpine design
